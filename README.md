@@ -4,6 +4,5 @@ Includes finetuning projects as well as projects that may not involve any additi
 
 Included projects (as of 12/11):
 
-Plato_LLM_finetuning finetunes a 70m parameter language model to converse as if it is participating in a Socratic dialogue. The finetuning dataset(s) are sampled from Plato's dialogues.
-
-eco_tags_classifier tags a long text (from a dataframe) with relevant tags from any given list of tags, grouped by category (i.e. Location, Industry...)
+(1) Plato_LLM_finetuning finetunes a 70m parameter language model to converse as if it is participating in a Socratic dialogue. The finetuning dataset(s) are sampled from Plato's dialogues.
+(2) eco_tags_classifier tags a long text (from a dataframe) with relevant tags from any given list of tags, grouped by category (i.e. Location, Industry...)
